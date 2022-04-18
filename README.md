@@ -10,9 +10,11 @@ https://github.com/coding-to-music/sockets-mern-twitter-radio
 
 https://sockets-mern-twitter-radio.herokuapp.com
 
-by Andrew Bateman https://github.com/AndrewJBateman
+by OpenMHz https://github.com/openmhz
 
-https://github.com/AndrewJBateman/mern-project
+https://openmhz.com/
+
+https://github.com/openmhz/trunk-server
 
 # Trunk Server
 
@@ -266,6 +268,7 @@ heroku create sockets-mern-twitter-radio
 
 ```java
 heroku config:set
+
 
 heroku config:set PUBLIC_URL="https://sockets-mern-twitter-radio.herokuapp.com"
 ```
